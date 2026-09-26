@@ -14,7 +14,7 @@
   --bg: #f6f7fb;
   --card: #ffffff;
   --radius: 12px;
-  --shadow: 0 1px 3px rgba(17, 24, 39, 0.08), 0 4px 16px rgba(17, 24, 39, 0.04);
+  --shadow: 0 1px 4px rgba(18, 24, 39, 0.08), 0 4px 16px rgba(17, 24, 39, 0.04);
 }
 
 * { box-sizing: border-box; }
