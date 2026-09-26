@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NEXORA E-Commerce
 
 Full-stack e-commerce learning project.
@@ -138,3 +139,6 @@ Run **Auth → Login** first; its test script saves the JWT into the `{{token}}`
 | 401 after some time | JWT expired (1 hour) – log in again |
 | Lombok errors in IntelliJ | Enable *Settings → Build → Compiler → Annotation Processors* |
 | Want a fresh database | `DROP DATABASE nexora_db;` then restart the backend |
+=======
+# E-commerce
+>>>>>>> d4238f0d708729cdfd79f98052a1c22de39e1502
