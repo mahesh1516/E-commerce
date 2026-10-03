@@ -11,6 +11,12 @@
         <version>3.5.6</version>
         <relativePath/>
     </parent>
+  <distributionManagement>
+    <repository>
+        <id>nexus</id>
+        <url>http://<NEXUS-IP>:8081/repository/maven-releases/</url>
+    </repository>
+</distributionManagement>
 
     <groupId>com.nexora</groupId>
     <artifactId>ecommerce</artifactId>
